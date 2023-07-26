@@ -3,6 +3,6 @@
 This is the readme of our names for group 4
 
 1) Katherine Young
-2)
-3)
+2)  
+3) Abdullah Jaura
 4)
