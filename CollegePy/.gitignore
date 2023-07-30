@@ -1,3 +1,6 @@
+#Ignore original datafile that's too big to move to github
+MERGED2011_12_PP.csv
+
 api_key.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
