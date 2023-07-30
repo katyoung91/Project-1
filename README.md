@@ -2,10 +2,10 @@
 
 This is the readme of our names for group 4
 
-1) Katherine Young
-2)Imen Najar
-3)
-4)
+1) Katherine Young  
+2) Imen Najar
+3) Mosa Hasen
+4) Abdullah Jaura
 
 -	File to Load: in the folder Resources, there is a file named data containing a clean dataset. The one downloaded is too large to push in GitHub.
 -	The api_key file is created and the key is inserted to the gitignore file.
@@ -24,7 +24,3 @@ What to check:
 - Add more columns
 - Error messaage to replace CONTROL
 - If the api_key is not public
-
-
-
-
