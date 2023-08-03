@@ -1,26 +1,23 @@
 #Readme
 
-This is the readme of our names for group 4
+This is the readme file for Project 1, Group 4 composed of the following team members.
 
 1) Katherine Young  
 2) Imen Najar
 3) Mosa Hasen
 4) Abdullah Jaura
 
--	File to Load: in the folder Resources, there is a file named data containing a clean dataset. The one downloaded is too large to push in GitHub.
--	The api_key file is created and the key is inserted to the gitignore file.
--	CollegePy.ipynb is the file containing the main project
-What is  in  CollegePy.ipynb:
--	Dependencies and Setup
--	Main DataFrame 
--	Clean DataFrame by Replacing NaN by 0
--	DataFrame for 4 year university with remplacing  school.ownership (CONTROL) from number to governance structure is public, private nonprofit, or private for-profit (the code works, but there is an error messaage to check )
--	Export the DataFrame into a csv
--	Select from each state a 4 year degree college using the API
--	use the map to visualize the location of each college
+The data for this project was sourced from https://collegescorecard.ed.gov/data/ using the 2011_12 merged data set. The original file is too large to upload to GitHub but consolidated versions were used for analysis. 
 
-What to check:
-- The name of variables used
-- Add more columns
-- Error messaage to replace CONTROL
-- If the api_key is not public
+This Repo Contains 3 main folders for our Code Files, Images extracted from coding for the presentation, and Resources which includes the consolidated data files. 
+
+These folders were reorganized after all project work was done. Some of the file paths in the coding files may not work because of this reorganization, but worked during the process of analysis. 
+
+We primarily used individual files to extract and analyze the data. This way, we would not need to wait on others to complete data pulls and chart creation. This is why there are multiple code files in the code folder. 
+We shared code when it was helpful for the group, such as if everyone needed so sort or group the data in a certain way. 
+
+Our code files and images contain additional pulls, charts and analysis that ultimately did not make it into the final presentation. Rather than delete the work, we kept it as is.
+
+The git ignore file contains some lines for larger files or api keys that needed to be ignored in uploading to github.
+
+The Repo also contains our final presentation file and a scope document (in Resources) that was used to guide, ideate and plan our project and analysis. 
