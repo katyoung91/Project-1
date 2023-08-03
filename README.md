@@ -21,3 +21,5 @@ Our code files and images contain additional pulls, charts and analysis that ult
 The git ignore file contains some lines for larger files or api keys that needed to be ignored in uploading to github.
 
 The Repo also contains our final presentation file (Project 1 - Group 4) and a scope document that was used to guide, ideate and plan our project and analysis. 
+
+The presentation file (Project 1 - Group 4) contains write up of our scope, sample information, analysis and data visuals and conclusion. 
